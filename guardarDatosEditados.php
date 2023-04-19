@@ -21,3 +21,4 @@ if($resultado === true){
 }else{
     echo "Algo salio mal. Por favor verifica que la tabla exista, asi como el ID del usuario"
 }
+?>
