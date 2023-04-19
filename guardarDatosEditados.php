@@ -21,6 +21,6 @@ $resultado = $sentencia->execute([$nombre, $edad, $id]);
 if($resultado === true) {
     header("Location: listar.php");
 } else {
-    echo "Algo salio mal, Por favor verifica que la tabla exista, asi como el Id de usuario";
+    echo "Algo salio mal, Por favor verifica que la tabla exista, asi como el ID de usuario";
 }
 ?>
