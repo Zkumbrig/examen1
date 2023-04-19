@@ -14,7 +14,7 @@
                 <label for="edad">Edad</label>
                 <input required name="edad" type="number" id="edad" placeholder="Edad de mascota" class="form-control">
             </div>
-            <button type="submit" class="btn btn-succes">Guardar</button>
+            <button type="submit" class="btn btn-success">Guardar</button>
             <a href="./listar.php" class="btn btn-warning">Ver todas</a>
         </form>
     </div>
